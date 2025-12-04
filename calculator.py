@@ -18,33 +18,49 @@ while True:
         num3 = num1 + num2
         print("Addition : ", num3)
 
+    #Performing subtraction..
     elif key == 2:
         num3 = num1 - num2
         print("Subtraction : ", num3)
-
+    
+    #Performing multiplication..
     elif key == 3:
         num3 = num1 * num2
         print("Multiplication : ", num3)
 
+    #Performing division..
     elif key == 4:
-        if num2 > 0:
+
+        #checking if denominator is not equals to 0..
+        if num2 != 0:
             num3 = num1 / num2
             print("Division : ", num3)
             
+        #if it is equal show error and ask to input another number inplace of second..
         else:
             print("Error \n Number cannot be divided by zero\n")
-            num2 = int(input("Enter the second number again : "))
-            num3 = num1 / num2
+            num4 = int(input("Enter the second number again : "))
+            num3 = num1 / num4
             print("Division : ", num3)
+
+    #Performing modulo division..
     elif key == 5:
+
+        #checking if denominator is not equals to 0..
         if num2 >= 0:
             num3 = num1 % num2
             print("Modulo : ", num3)
             
+        #if it is equal show error and ask to input another number inplace of second..
         else:
             print("Error \n Number cannot be divided by zero\n")
+            num4 = int(input("Enter the second number again : "))
+            num3 = num1 / num4
+            print("Division : ", num3)
+    #Exiting the program..
     elif key == 6:
         print("\n\n-----Thank you for using Python Calculator-----")
         break
+    #If input does'nt matches the following standards, it will pass the Error for Wrong Input..
     else: 
         print("Wrong Input \n Try again !")
