@@ -1,36 +1,70 @@
-Proper_name,Constellation,Distance_ly,Distance_pc
-Absolutno,Lynx,330,101.2
-Acamar,Eridanus,161,49.4
-Achernar,Eridanus,139,42.6
-Achird,Cassiopeia,19,5.8
-Acrab,Scorpius,404,124.0
-Acrux,Crux,321,98.5
-Acubens,Cancer,174,53.4
-Adhafera,Leo,274,84.0
-Adhara,Canis Major,430,132.0
-Adhil,Andromeda,218,66.9
-Ain,Taurus,123,37.7
-Ainalrami,Sagittarius,125,38.3
-Aiolos,Carina,690,211.7
-Aladfar,Lyra,360,110.4
-Alasia,Serpens,340,104.3
-Alathfar,Lyra,370,113.5
-Albadah,Sagittarius,508,155.8
-Albali,Aquarius,160,49.1
-Albireo,Cygnus,434,133.1
-Alchiba,Corvus,48,14.7
-Alcor,Ursa Major,81,24.8
-Alcyone,Taurus,444,136.2
-Aldebaran,Taurus,65,19.9
-Alderamin,Cepheus,49,15.0
-Aldhanab,Grus,99,30.4
-Aldiba,Draco,101,31.0
-Aldulfin,Delphinus,220,67.5
-Alfirk,Cepheus,595,182.5
-Algedi,Capricornus,109,33.4
-Algenib,Pegasus,390,119.6
-Algieba,Leo,130,39.9
-Algol,Perseus,93,28.5
-Algorab,Corvus,87,26.7
-Alhena,Gemini,105,32.2
-Alioth,Ursa Major,81,24.8
+Proper_name,Scientific_name,Constellation,Distance_ly,Distance_pc
+Aljanah,ε Cygni,Cygnus,73,22.4
+Alkaid,η Ursae Majoris,Ursa Major,104,31.9
+Alkalurops,μ Boötis,Boötes,121,37.1
+Alkaphrah,κ Ursae Majoris,Ursa Major,358,109.8
+Alkarab,ε Pegasi,Pegasus,690,211.7
+Alkes,α Crateris,Crater,174,53.4
+Almaaz,ε Aurigae,Auriga,2030,622.7
+Almach,γ Andromedae,Andromeda,355,108.9
+Al Minliar al Asad,ε Leonis,Leo,247,75.8
+Alnair,α Gruis,Grus,101,31.0
+Alnasl,γ Sagittarii,Sagittarius,97,29.8
+Alnilam,ε Orionis,Orion,1340,411.0
+Alnitak,ζ Orionis,Orion,800,245.4
+Alniyat,σ Scorpii,Scorpius,568,174.2
+Alphard,α Hydrae,Hydra,177,54.3
+Alphecca,α Coronae Borealis,Corona Borealis,75,23.0
+Alpheratz,α Andromedae,Andromeda,97,29.8
+Alpherg,η Ceti,Cetus,127,39.0
+Alrakis,μ Draconis,Draco,88,27.0
+Alrescha,α Piscium,Pisces,139,42.6
+Alruba,δ Canis Majoris,Canis Major,37,11.3
+Alsafi,σ Draconis,Draco,18.8,5.8
+Alsciaukat,31 Comae Berenices,Coma Berenices,303,93.0
+Alsephina,δ Velorum,Velorum,80,24.5
+Alshain,β Aquilae,Aquila,44,13.5
+Alshat,ν Capricorni,Capricornus,253,77.6
+Altair,α Aquilae,Aquila,16.7,5.1
+Altais,δ Draconis,Draco,97,29.8
+Alterf,λ Leonis,Leo,336,103.1
+Aludra,η Canis Majoris,Canis Major,1120,343.6
+Alula Australis,ξ Ursae Majoris,Ursa Major,31,9.5
+Alula Borealis,ν Ursae Majoris,Ursa Major,399,122.4
+Alya,θ Serpentis,Serpens,130,39.9
+Alzirr,ξ Geminorum,Gemini,59,18.1
+Amadioha,HD 43197,Canis Major,204,62.6
+Amansinaya,WASP-34,Crater,390,119.6
+Anadolu,WASP-52,Pegasus,573,175.8
+Ananuka,α Phoenicis,Phoenix,82,25.2
+Ancha,θ Aquarii,Aquarius,160,49.1
+Angetenar,τ Eridani,Eridanus,187,57.4
+Aniara,HD 102956,Ursa Major,405,124.2
+Anka,α Phoenicis,Phoenix,85,26.1
+Anser,α Vulpeculae,Vulpecula,297,91.1
+Antares,α Scorpii,Scorpius,554,170.0
+Arcalis,HD 131496,Boötes,432,132.5
+Arcturus,α Boötis,Boötes,36.7,11.3
+Arkab Posterior,β Sagittarii,Sagittarius,137,42.0
+Arkab Prior,σ Sagittarii,Sagittarius,228,69.9
+Arneb,α Leporis,Lepus,2200,674.8
+Ascella,ζ Sagittarii,Sagittarius,89,27.3
+Ashlesha,ε Hydrae,Hydra,135,41.4
+Asellus Australis,δ Cancri,Cancer,131,40.2
+Asellus Borealis,γ Cancri,Cancer,181,55.5
+Asellus Primus,θ Boötis,Boötes,47,14.4
+Asellus Secundus,ι Boötis,Boötes,96,29.4
+Asellus Tertius,κ Boötis,Boötes,162,49.7
+Aspidiske,ι Carinae,Carina,690,211.7
+Asterope,21 Tauri,Taurus,444,136.2
+Atakoraka,WASP-64,Canis Major,1220,374.2
+Athebyne,η Draconis,Draco,92,28.2
+Atik,ο Persei,Perseus,1200,368.1
+Atlas,27 Tauri,Taurus,444,136.2
+Atria,α Trianguli Australis,Triangulum Australe,391,119.9
+Avior,ε Carinae,Carina,630,193.3
+Axólotl,HD 224693,Cetus,308,94.5
+Ayeyarwady,HD 18742,Eridanus,530,162.6
+Azelfafage,π Cygni,Cygnus,172,52.8
+Azha,η Eridani,Eridanus,139,42.6
+Azmidi,ξ Puppis,Puppis,1200,368.1
