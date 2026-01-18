@@ -1,0 +1,9 @@
+Planet,Type,Distance_AU,Mass_Earths,Radius_km,Gravity_mps2,Orbital_Period_days,Rotational_Period_hours,Num_Moons,Has_Rings,Surface_Temp_C,Atmospheric_Composition,Density_gcm3,Escape_Velocity_kms,Albedo_reflectivity
+Mercury,Terrestrial,0.39,0.055,,3.7,87.97,1407.6,0,No,"-173 to 427","O, Na, He, H, K, Ca, Mg",5.43,4.25,0.088
+Venus,Terrestrial,0.72,0.815,6051.8,8.87,224.70,-5832.0,0,No,"462","CO2 96.5%, N2 3.5%",,10.36,
+Earth,Terrestrial,1.00,1.000,6371.0,9.80,365.25,23.93,1,No,"-89 to 58","N2 78%, O2 21%, Ar, CO2",5.51,11.19,0.306
+Mars,Terrestrial,1.52,0.107,3389.5,3.71,686.98,24.62,2,,"-125 to 20","CO2 ~95%, N2, Ar",3.93,5.03,0.25
+Jupiter,Gas Giant,5.20,317.8,69911,24.79,,9.93,97,Yes,"-145","H2 ~90%, He ~10%",1.33,59.5,
+Saturn,Gas Giant,9.54,95.2,58232,10.44,10759.22,10.66,274,,"-178","H2 ~96%, He ~3%",,35.5,0.47
+Uranus,Ice Giant,19.18,14.5,25362,8.69,30685.4,-17.24,29,Yes,"-197","H2, He, CH4",1.27,21.3,
+Neptune,Ice Giant,30.06,17.1,24622,,60189.0,16.11,16,Yes,"-201","H2, He, CH4",1.64,23.5,
